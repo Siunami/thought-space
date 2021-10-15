@@ -24,6 +24,8 @@ scratch:
     dateFormat: y.MM.dd.HHmmss
     addBehavior: asOwnDomain
 site:
+    assetsPrefix: thought-space
+    siteUrl: https://siunami.github.io/
     copyAssets: true
     siteHierarchies:
         - root
