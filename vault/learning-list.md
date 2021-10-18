@@ -2,7 +2,7 @@
 id: Y3tFnJ8g5hYtbMgtzV4LI
 title: Learning List
 desc: ''
-updated: 1634543231514
+updated: 1634545231840
 created: 1634532823329
 ---
 
@@ -16,3 +16,4 @@ Porcelain
 
 Construction
 - Learned Mortise and Tenon from Robert. Would like to understand better 
+
