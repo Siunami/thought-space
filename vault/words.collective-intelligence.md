@@ -2,9 +2,10 @@
 id: i0GL7SMrya59SpU2XD7F4
 title: Collective Intelligence
 desc: ''
-updated: 1634620442290
+updated: 1634802450714
 created: 1634620343953
 ---
+
 
 [[daily.journal.2021.10.18]]
 
