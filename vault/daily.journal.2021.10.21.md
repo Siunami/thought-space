@@ -2,7 +2,7 @@
 id: N6BQGgWhDbX2hPIELLmqF
 title: '2021-10-21'
 desc: ''
-updated: 1634890686873
+updated: 1634890757265
 created: 1634842785301
 ---
 
@@ -69,3 +69,4 @@ I'm reaching the point with my skills where I'm starting to get a lot of job off
 
 And then leaving plenty of free time to just play. To be surprised. To say yes to something unexpected. Because reality is millions of times larger than you will ever know. And if you try to plan your life based on the tiniest sliver of it that you are aware of, you will miss so much. So leave plenty of time to experiment and play. To explore. (Maybe this is why I'm so fascinated with helping people have increased agency and in sidequests)
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">basically all the happiest people I know spend like 50% of their life wandering around</p>&mdash; Nick Cammarata (@nickcammarata) <a href="https://twitter.com/nickcammarata/status/1428494972836368388?ref_src=twsrc%5Etfw">August 19, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
