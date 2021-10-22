@@ -25,7 +25,7 @@ scratch:
     addBehavior: asOwnDomain
 site:
     assetsPrefix: thought-space
-    siteUrl: 'https://siunami.github.io/'
+    siteUrl: https://siunami.github.io/
     copyAssets: true
     siteHierarchies:
         - root
@@ -39,20 +39,10 @@ site:
         action: useVault
         payload:
             - vault
-version: 2
+version: 1
+lookupConfirmVaultOnCreate: false
+lookup:
+    note:
+        selectionType: selectionExtract
+        leaveTrace: false
 initializeRemoteVaults: true
-commands:
-    lookup:
-        note:
-            selectionMode: extract
-            confirmVaultOnCreate: false
-            leaveTrace: false
-    randomNote: {}
-    insertNote:
-        initialValue: templates
-    insertNoteLink:
-        aliasMode: none
-        enableMultiSelect: false
-    insertNoteIndex:
-        enableMarker: false
-dendronVersion: 0.64.0
