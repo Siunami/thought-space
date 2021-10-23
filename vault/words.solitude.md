@@ -2,10 +2,13 @@
 id: ElCWsYYxZ6SwGj7rU6Ygu
 title: Solitude
 desc: ''
-updated: 1634621494118
+updated: 1634977454003
 created: 1634272555540
 ---
 
+
+[[daily.journal.2021.10.23]]
+- First section is a riff on this
 
 ---
 [[daily.journal.2021.10.18]]

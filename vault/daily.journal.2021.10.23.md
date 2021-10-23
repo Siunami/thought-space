@@ -2,7 +2,7 @@
 id: Kx0GadNRPDWvbVqKCb4g9
 title: '2021-10-23'
 desc: ''
-updated: 1634977339685
+updated: 1634977651177
 created: 1634975970507
 ---
 
@@ -27,3 +27,11 @@ It's about creating symbiotic relationships between computers and human users.
 On the internal side, helping us pattern match based on all the information we are recording and collecting. Making inferences about our internal mental models based on how we use words in relation to each other. Helping us see the bigger picture and to reflect on what this might mean for us moving forward. Maybe suggesting an interesting, unexpected career path or a topic you should really explore more in depth. Connecting you to groups and organizations that may be able to enhance your understanding.
 
 On the external side, helping us communicate and express ourselves. Thinking about new mediums for communication. What can we do with the digital medium that wasn't possible before? This is both an art and technology question. Computers to this day are largely document based which just carries over the metaphors of physical paper when information was stored on individual sheets (documents).
+
+---
+
+Feel an incredible amount of excitement and agency growing within me. I want my cup to be overflowing with it so that I can give some to other people. I made the mistake the last two years trying to do things to help others while my own cup was incredibly low. Didn't have a good relationship with myself. The counterintuitive thing is to help yourself first so that you have the resources to help others. 
+
+![](/assets/images/2021-10-23-01-26-38.png)
+
+It's funny because the airplanes have been sharing a deep truth all this time. If we aren't taking care of our own needs first, we won't be able to do so for others. At least, not for long.
